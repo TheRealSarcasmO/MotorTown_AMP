@@ -10,7 +10,7 @@
         "IsFlagArgument": false,
         "ParamFieldName": "Stream",
         "IncludeInCommandLine": false,
-        "DefaultValue": "motortowndedi",
+        "DefaultValue": "test -betapassword motortowndedi",
         "Placeholder": "motortowndedi",
         "EnumValues": {}
     }
