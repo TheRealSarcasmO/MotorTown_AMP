@@ -11,7 +11,7 @@
         "ParamFieldName": "Stream",
         "IncludeInCommandLine": false,
         "DefaultValue": "test -betapassword motortowndedi",
-        "Placeholder": "motortowndedi",
+        "Placeholder": "test -betapassword motortowndedi",
         "EnumValues": {}
     }
 ]
