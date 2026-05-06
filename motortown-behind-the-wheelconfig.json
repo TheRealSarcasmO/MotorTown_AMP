@@ -1,0 +1,19 @@
+[
+    {
+        "DisplayName": "ServerMessage",
+        "Category": "Server Settings",
+        "Description": "ServerMessage",
+        "Keywords": "servermessage",
+        "FieldName": "ServerMessage",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "ServerMessage",
+        "IncludeInCommandLine": false,
+        "DefaultValue": "\"Welcome!\"",
+        "Placeholder": "\"Welcome!\"",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": false,
+        "EnumValues": {}
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "UpdateStageName": "Getting from SteamCMD",
+        "UpdateSourcePlatform": "Windows",
+        "UpdateSource": "SteamCMD",
+        "UpdateSourceData": "2223650",
+        "UpdateSourceArgs": "2223650 -beta test -betapassword motortowndedi +app_update 1007",
+        "UpdateSourceVersion": "test",
+        "UnzipUpdateSource": false,
+        "OverwriteExistingFiles": false,
+        "ForceDownloadPlatform": "Windows",
+        "DeleteAfterExtract": true,
+        "OneShot": false
+    }
+]
