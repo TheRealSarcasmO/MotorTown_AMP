@@ -19,5 +19,5 @@
         "UpdateSourceData": "{{$FullBaseDir}}DedicatedServerConfig.json",
         "UpdateSourceArgs": "{{$FullBaseDir}}DedicatedServerConfig_Sample.json",
         "OverwriteExistingFiles": false
-    },
+    }
 ]
