@@ -11,5 +11,13 @@
         "ForceDownloadPlatform": "Windows",
         "DeleteAfterExtract": true,
         "OneShot": false
-    }
+    },
+    {
+        "UpdateStageName": "DedicatedServerConfig_Sample.json Copy",
+        "UpdateSourcePlatform": "All",
+        "UpdateSource": "CopyFilePath",
+        "UpdateSourceData": "{{$FullBaseDir}}DedicatedServerConfig.json",
+        "UpdateSourceArgs": "{{$FullBaseDir}}DedicatedServerConfig_Sample.json",
+        "OverwriteExistingFiles": false
+    },
 ]
